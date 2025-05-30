@@ -6,4 +6,4 @@ A iniciativa parte de um entendimento aprofundado sobre o funcionamento dos FIIs
 * Projeção dos dividendos mensais.
 A solução oferece uma visualização clara e intuitiva dos resultados, ajudando o investidor a avaliar melhor o potencial de retorno de seus aportes.
 
-O exemplo da planilha é o valor do salário mínimo brasileiro (R$ 1509,00).
+O exemplo da planilha é o valor do salário mínimo brasileiro em 2025(R$ 1509,00).
