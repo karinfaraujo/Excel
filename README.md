@@ -4,8 +4,9 @@ Este projeto tem como finalidade utilizar os recursos do Microsoft Excel para cr
 
 A iniciativa parte de um entendimento aprofundado sobre o funcionamento dos FIIs e das principais dúvidas dos investidores — como quanto aplicar, por quanto tempo manter o investimento e quais retornos esperar. Com isso, a ferramenta busca facilitar a tomada de decisões ao automatizar cálculos importantes, como:
 * Total investido ao longo do tempo;
-* Evolução do patrimônio acumulado;
+* Evolução do patrimônio acumulado e
 * Projeção dos dividendos mensais.
+
 A solução oferece uma visualização clara e intuitiva dos resultados, ajudando o investidor a avaliar melhor o potencial de retorno de seus aportes.
 
 O exemplo da planilha é o valor do salário mínimo brasileiro em 2025(R$ 1509,00).
