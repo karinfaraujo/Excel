@@ -11,7 +11,7 @@ A iniciativa parte de um entendimento aprofundado sobre o funcionamento dos FIIs
 
 A solução oferece uma visualização clara e intuitiva dos resultados, ajudando o investidor a avaliar melhor o potencial de retorno de seus aportes.
 
-O exemplo da planilha é o valor do salário mínimo brasileiro em 2025(R$ 1509,00).
+O exemplo da planilha presente no arquivo `Projeto.FII.xlsx` é o valor do salário mínimo brasileiro em 2025(R$ 1509,00).
 
 O projeto faz parte do curso Santander - Excel com Inteligência Artificial fornecido pela DIO.
 
@@ -22,7 +22,7 @@ PROJETO 2 🦁💵🖥️
 
 Este projeto tem como finalidade desenvolver uma ferramenta no Excel voltada para auxiliar na organização das informações necessárias à declaração do Imposto de Renda. A ideia central é criar um sistema de consolidação de dados, permitindo que o usuário registre e acompanhe suas movimentações financeiras de forma prática e segura.
 
-A planilha contará com menus interativos, validações automáticas e funcionalidades adicionais — como atalhos e links úteis — para facilitar a navegação e o uso. Toda a solução será implementada diretamente no Excel, combinando robustez e usabilidade em uma interface simples e intuitiva.
+A planilha está presente no arquivo `Projeto.IR.xlsx` e contará com menus interativos, validações automáticas e funcionalidades adicionais — como atalhos e links úteis — para facilitar a navegação e o uso. Toda a solução será implementada diretamente no Excel, combinando robustez e usabilidade em uma interface simples e intuitiva.
 
 O projeto faz parte do curso Santander - Excel com Inteligência Artificial fornecido pela DIO.
 
